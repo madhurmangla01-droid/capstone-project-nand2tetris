@@ -1,0 +1,13 @@
+# Labels (ROM address)
+MAIN = 0
+PRESSED = 8
+DRAW = 10
+ROWLOOP = 18
+COLLOOP = 26
+
+# Variables (RAM address)
+color = 16
+addr = 17
+rows = 18
+cols = 19
+ptr = 20

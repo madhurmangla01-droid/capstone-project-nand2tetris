@@ -1,0 +1,13 @@
+Capstone Project: Making the Computer Draw a Box
+Nand to Tetris – I (ETCCNT301), School of Engineering & Technology, K.R. Mangalam University
+By Madhur Mangla (Roll No. 2501350087)
+
+For my Nand to Tetris capstone I built the full path from software to screen. I joined the course chips into a working Hack computer, wrote an assembler in Python that turns Hack assembly into machine code, and wrote a small assembly program that shows a black box on the screen while a key is held down and removes it when the key is released.
+
+Highlights:
+- Computer built from gates, ALU, registers, RAM and program counter, tested with the official test files.
+- Two-pass Python assembler whose output matches the official assembler on Add, Max, Rect and Pong.
+- Extra feature: the assembler saves all labels and variables with their addresses in symbols.txt.
+- Box.asm draws a 64 x 20 pixel box starting at row 87 and runs on the computer I assembled myself.
+
+Code and report: <paste your GitHub link here>
